@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+  text-align: start;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #6C63FF;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 1rem;
+  margin-left: 23rem;
+  width: 20%;
+  font-size: 18px;
+}
+
+.card1 button {
+  margin-top: 3rem;
+  margin-left: 0.5rem;
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #6C63FF;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 3rem;
+  margin-left: 8%;
+  width: 10%;
+  font-size: 18px;
+}
